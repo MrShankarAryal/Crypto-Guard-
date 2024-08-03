@@ -1,54 +1,51 @@
-# Crypto-Guard-
-BE Project of Advance Computer Programing: Crypto Guard: File Encryption and Decryption                                                                                                                 
-______________________________________ADVANCE PYTHON PROGRAMING ________________________________________
-______________________________________    Title: CryptoGuard    ________________________________________
-______________________________________   M/U Date: 8/2/2024     ________________________________________
-______________________________________   Shankar Aryal          ________________________________________
+# Crypto-Guard
+================
 
+BE Project of Advance Computer Programing: Crypto Guard: File Encryption and Decryption
 
+**Title:** CryptoGuard
+**M/U Date:** 8/2/2024
+**Author:** Shankar Aryal
 
+**Uses:**
 
-Uses  : Python 3
-	Tkinter for GUI
-	pycryptodomex for Cryptodome
-	AES Encryption
-	cx_freeze to build executable
+* Python 3
+* Tkinter for GUI
+* pycryptodomex for Cryptodome
+* AES Encryption
+* cx_freeze to build executable
 
+**INSTALLATION Setup for New device:**
 
+### Step 1: Create a virtual environment
 
+```bash
+python -m venv CryptoGuardapp_env
+```
 
+### Step 2: Activate the virtual environment
+```bash
+.\CryptoGuardapp_env\Scripts\activate
+```
 
-INSTALLATION Setup for New device: 
-                         1)  Create a virtual environment:
-_______________________________________________________________________________________
-|                        python -m venv CryptoGuardapp_env                            |
-|_____________________________________________________________________________________|
+### Step 3: Install the required packages inside the virtual environment
+```bash
+pip install pycryptodomex
+```
+```bash
+pip install cx_freeze
+```
 
+### Step 4: Install custom Tkinter
+```bash
+pip install customtkinter
+```
+```bash
+python.exe -m pip install --upgrade pip
+```
+#customtkinter: https://customtkinter.tomschimansky.com/documentation/
 
-                         2) Activate the virtual environment:
-______________________________________________________________________________________
-|                          .\CryptoGuardapp_env\Scripts\activate                     |
-|____________________________________________________________________________________|
-
-
-                        3) Install the required packages inside the virtual environment:
-_______________________________________________________________________________________
-|                           pip install pycryptodomex                                  |
-|                           pip install cx_freeze                                      |                      
-|______________________________________________________________________________________|
-                         4) Install custom Tkinter
-___________________________________________________________________________________
-|                          pip install customtkinter                                |
-|                          pip install customtkinter --upgrade_                     |
-|                   OR      python.exe -m pip install --upgrade pip                 |
-|                                                                                   |
-|___________________________________________________________________________________|  
-customtkinter: https://customtkinter.tomschimansky.com/documentation/
-
-                       4) Run your script
-________________________________________________________________________________________________________________________
-|     & "C:/Program Files/Python312/python.exe" "c:/Users/Shankar Aryal/Desktop/CryptoGuard/CryptoGuardApp.py"          |   
-|_______________________________________________________________________________________________________________________|  
-
-
-
+### Step 4: Run your script
+```bash
+& "C:/Program Files/Python312/python.exe" "c:/Users/Shankar Aryal/Desktop/CryptoGuard/CryptoGuardApp.py"
+```
