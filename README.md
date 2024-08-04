@@ -43,7 +43,7 @@ CryptoGuard is a robust file encryption GUI application designed to provide secu
 - Error handling and user feedback
 
 
-# **INSTALLATION Setup for New device:**
+## **📩 INSTALLATION Setup for New device:**
 
 ### Step 1: Create a virtual environment
 
