@@ -6,8 +6,7 @@ BE Project of Advance Computer Programing: Crypto Guard: File Encryption and Dec
 CryptoGuard is a robust file encryption GUI application designed to provide secure, user-friendly encryption and decryption of files using AES in GCM mode.
 
 
-**Uses:**
-# CryptoGuard: File Encryption GUI App
+# CryptoGuard:Used
 
 ## 📚 Libraries Used
 
