@@ -18,8 +18,6 @@ from Cryptodome.Random import get_random_bytes
 
 
 class CryptoGuard:
-    """ "EncryptionTool" class from "github.com/nsk89" for file encryption.
-    (Has been modified a bit.) """
     def __init__(self, user_file, user_key):
         # get the path to input file
         self.user_file = user_file
@@ -136,20 +134,11 @@ class MainWindow:
         )
         self.root.config(menu=self.menu_bar)
   #######################
-    
-      
-
-
-
-
-
         #self.root.grid_columnconfigure(0, weight=1)
         #self.root.grid_columnconfigure(2,weight=0)
 
         #self.root.grid_columnconfigure(1, weight=1)
-
-
-         #############################
+    #############################
         #tk.Label(self.root, text="File URL:").grid(row=0, column=0,pady=5,)
         # Assuming self.root is defined and other setup is done
         self.root.grid_columnconfigure(1, weight=1)
