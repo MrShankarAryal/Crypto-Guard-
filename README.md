@@ -1,4 +1,5 @@
-![CryptoGuard Logo](assets/icon.ico)
+<img src="assets/icon.ico" alt="CryptoGuard Logo" width="100"/>
+
 # Crypto-Guard
 
 BE Project of Advance Computer Programing: Crypto Guard: File Encryption and Decryption
