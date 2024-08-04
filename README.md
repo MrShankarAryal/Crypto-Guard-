@@ -1,8 +1,7 @@
+![CryptoGuard Logo](assets/icon.ico)
 # Crypto-Guard
 ================
 BE Project of Advance Computer Programing: Crypto Guard: File Encryption and Decryption
-
-![CryptoGuard Logo](assets/icon.ico)
 CryptoGuard is a robust file encryption GUI application designed to provide secure, user-friendly encryption and decryption of files using AES in GCM mode.
 
 
