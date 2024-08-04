@@ -1,19 +1,48 @@
 # Crypto-Guard
 ================
-
 BE Project of Advance Computer Programing: Crypto Guard: File Encryption and Decryption
 
-**Title:** CryptoGuard
-**M/U Date:** 8/2/2024
-**Author:** Shankar Aryal
+![CryptoGuard Logo](assets/icon.ico)
+CryptoGuard is a robust file encryption GUI application designed to provide secure, user-friendly encryption and decryption of files using AES in GCM mode.
+
 
 **Uses:**
+# CryptoGuard: File Encryption GUI App
 
-* Python 3
-* Tkinter for GUI
-* pycryptodomex for Cryptodome
-* AES Encryption
-* cx_freeze to build executable
+## 📚 Libraries Used
+
+- **os**: For file operations
+- **hashlib**: For hashing
+- **tkinter**: For the GUI
+- **customtkinter**: A custom Tkinter library for improved UI elements
+- **Cryptodome**: For encryption and decryption (AES)
+
+## 🏗️ Main Classes
+
+- **CryptoGuard**: Handles the encryption and decryption logic
+- **MainWindow**: Creates and manages the GUI
+
+## 🔐 Encryption/Decryption Process
+
+- Uses AES encryption in GCM mode
+- Derives a salt from the user's key
+- Reads and processes files in chunks for efficiency
+
+## 🖥️ GUI Features
+
+- File selection
+- Secret key input
+- Encrypt and Decrypt buttons
+- Reset and Cancel buttons
+- Status display
+- Help and About menu items
+
+## 🌟 Additional Features
+
+- Progress tracking during encryption/decryption
+- Ability to cancel ongoing operations
+- Error handling and user feedback
+
 
 **INSTALLATION Setup for New device:**
 
@@ -49,3 +78,49 @@ python.exe -m pip install --upgrade pip
 ```bash
 & "C:/Program Files/Python312/python.exe" "c:/Users/Shankar Aryal/Desktop/CryptoGuard/CryptoGuardApp.py"
 ```
+
+## 🤝 Contributing
+
+We welcome contributions to CryptoGuard! Your input is invaluable in making this project better.
+
+### How to Contribute
+
+1. Fork the Project
+2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
+3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
+4. Push to the Branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
+
+Please read our [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests.
+
+## 📄 License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+We stand on the shoulders of giants. Special thanks to:
+
+- [Cryptodome](https://www.pycryptodome.org/) - For providing robust cryptographic functions
+- [customtkinter](https://github.com/TomSchimansky/CustomTkinter) - For enhanced UI elements
+
+## 📬 Contact
+
+<div align="center">
+
+| Contact | Information |
+|---------|-------------|
+| **Developer** | Shankar Aryal |
+| **Email** | [shankararyal737@gmail.com](mailto:shankararyal737@gmail.com) |
+| **GitHub** | [@MrShankarAryal](https://github.com/MrShankarAryal) |
+| **Project Link** | [https://github.com/MrShankarAryal/Crypto-Guard-](https://github.com/MrShankarAryal/Crypto-Guard-) |
+
+</div>
+
+---
+
+<div align="center">
+
+💖 Thank you for your interest in CryptoGuard! 💖
+
+</div>
