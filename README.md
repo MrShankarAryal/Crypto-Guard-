@@ -112,7 +112,7 @@ We stand on the shoulders of giants. Special thanks to:
 | **Developer** | Shankar Aryal |
 | **Email** | [shankararyal737@gmail.com](mailto:shankararyal737@gmail.com) |
 | **GitHub** | [@MrShankarAryal](https://github.com/MrShankarAryal) |
-| **Project Link** | [https://github.com/MrShankarAryal/Crypto-Guard-](https://github.com/MrShankarAryal/Crypto-Guard-) |
+| **Website** | [mrshankararyal.github.io](https://mrshankararyal.github.io/portfolio/) |
 
 </div>
 
