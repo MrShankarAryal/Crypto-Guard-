@@ -12,8 +12,7 @@ CryptoGuard is a robust file encryption GUI application designed to provide secu
 
 - **os**: For file operations
 - **hashlib**: For hashing
-- **tkinter**: For the GUI
-- **customtkinter**: A custom Tkinter library for improved UI elements
+- **PyQt5**: For the GUI
 - **Cryptodome**: For encryption and decryption (AES)
 
 ## 🏗️ Main Classes
@@ -64,9 +63,9 @@ pip install pycryptodomex
 pip install cx_freeze
 ```
 
-### Step 4: Install custom Tkinter
+### Step 4: Install pyQt5
 ```bash
-pip install customtkinter
+pip install pyQt5
 ```
 ```bash
 python.exe -m pip install --upgrade pip
