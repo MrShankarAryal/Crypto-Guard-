@@ -4,7 +4,9 @@
 
 Crypto Guard: File Encryption and Decryption
 CryptoGuard is a robust file encryption GUI application designed to provide secure, user-friendly encryption and decryption of files using AES in GCM mode.
-
+Its Documentation is avilabel on:
+[ResearchGate](https://www.researchgate.net/publication/388003817_CRYPTO_GUARD_APPLICATION_V_100
+)
 
 # CryptoGuard:Used
 
